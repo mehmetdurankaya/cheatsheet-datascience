@@ -1,0 +1,19 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Environment files
+.env
+*.env
+
+# Data files
+*.csv
+*.xlsx
+*.json
