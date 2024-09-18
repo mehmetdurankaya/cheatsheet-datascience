@@ -1,6 +1,6 @@
 # Veri Bilimi Notlar
 
-Bu repo, veri bilimi ile ilgili çeşitli projeleri ve notları içerir. Aşağıda, projeler ve notların bulunduğu dizinler için bağlantılar bulabilirsiniz:
+Bu repo, veri bilimi ile ilgili çeşitli notları içerir. Aşağıda, notların bulunduğu dizinler için bağlantılar bulabilirsiniz:
 
 ## İçindekiler
 
@@ -13,24 +13,24 @@ Bu repo, veri bilimi ile ilgili çeşitli projeleri ve notları içerir. Aşağ�
 
 ## Olasılık
 
-Bu dizin, olasılık teorisi ile ilgili notları ve projeleri içerir.
+Bu dizin, olasılık teorisi ile ilgili notları içerir.
 
 [Olasılık dizinine git](./olasılık)
 
 ## Veri Bilimi İstatistik
 
-Bu dizin, veri bilimi ve istatistik ile ilgili notları ve projeleri içerir.
+Bu dizin, veri bilimi ve istatistik ile ilgili notları içerir.
 
 [Veri Bilimi İstatistik dizinine git](./veri_bilimi_istatistik)
 
 ## Veri Görselleştirme
 
-Bu dizin, veri görselleştirme teknikleri ile ilgili notları ve projeleri içerir.
+Bu dizin, veri görselleştirme teknikleri ile ilgili notları  içerir.
 
 [Veri Görselleştirme dizinine git](./veri_gorsellestirme)
 
 ## Veri Manipülasyonu
 
-Bu dizin, veri manipülasyonu teknikleri ile ilgili notları ve projeleri içerir.
+Bu dizin, veri manipülasyonu teknikleri ile ilgili notları  içerir.
 
 [Veri Manipülasyonu dizinine git](./veri-manipulasyonu)
